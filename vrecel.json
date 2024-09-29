@@ -16,7 +16,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "ImageGenerator/ImageGenerator/wsgi.py"
+      "dest": "ImageGenerator/wsgi.py"
     }
   ]
 }
